@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../exo gaming campus vrai"
+		},
+		{
+			"path": "../exo javascript nav bar"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blog"
+	}
+}
